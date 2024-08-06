@@ -14,3 +14,10 @@ const config = {
         "https://telegra.ph/file/748e77ecdb7f670dedc13.jpg"
     ]
 };
+/* JANGAN HAPUS INI 
+SCRIPT BY © VYNAA VALERIE 
+•• recode kasih credits 
+•• contacts: (6282389924037)
+•• instagram: @vynaa_valerie 
+•• (github.com/VynaaValerie) 
+*/
